@@ -1,2 +1,2 @@
 # diff-test
-diff2htmlのテスト
+diff2htmlのテスト用データ
